@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application City Bike Integration
 
 ## Problems during the development
@@ -47,3 +48,6 @@ Inside the container, just run:
 **That's it!**
 
 You can access the project at `localhost:8000`
+=======
+# city-bike-integration
+>>>>>>> a26eb216e68b26734c7bb9df6243cb02a3162688
